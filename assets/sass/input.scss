@@ -1,0 +1,19 @@
+/*Reset*/
+@import "reset";
+
+// Шрифты
+
+// Цвета
+$blue: #0b4a72;
+$black: #000000b2;
+$olive: #e6f2b4;
+$pink: #fffaf4;
+
+// Дисплеи
+$df: flex;
+
+// Стили для навигации
+.main_nav {
+  background-color: burlywood;
+  display: $df;
+}

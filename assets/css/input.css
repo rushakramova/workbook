@@ -1,0 +1,24 @@
+/*Reset*/
+p {
+  margin: 0;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  margin: 0;
+}
+
+ul {
+  padding: 0;
+  margin: 0;
+  list-style-type: none;
+}
+
+.main_nav {
+  background-color: burlywood;
+  display: flex;
+}/*# sourceMappingURL=input.css.map */
